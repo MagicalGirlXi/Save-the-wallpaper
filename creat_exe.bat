@@ -1,0 +1,1 @@
+pyinstaller --onefile --nowindowed --icon="C:\Users\lijun\Pictures\icons\swp.ico" Save_the_wallpaper.py
